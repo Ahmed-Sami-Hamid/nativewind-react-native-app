@@ -1,6 +1,6 @@
 # React-Native-Tailwindcss-starters
 
-    here will be used for tailwind css react native JavaScript start projects.
+here will be used for tailwind css react native JavaScript start projects.
 
 ## Get Started
 
